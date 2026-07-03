@@ -1,0 +1,6 @@
+streamlit>=1.35.0
+PyPDF2>=3.0.1
+python-docx>=1.1.0
+scikit-learn>=1.4.0
+pandas>=2.2.0
+openai>=1.30.0
